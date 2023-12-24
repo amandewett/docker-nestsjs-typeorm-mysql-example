@@ -35,6 +35,10 @@ npm i
 ```sh
 npm run start:dev
 ```
+## Run with Docker
+```sh
+docker-compose up -d
+```
 
 ## Directly run in typescript language (This will not emit your app to javascript in dist folder)
 ```sh
